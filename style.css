@@ -1,0 +1,35 @@
+body {
+    background-color: #414141;
+    color: #bbbbbb;
+    font-family: serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+
+}
+
+.guest {
+    color: #ddbc69;
+    font-family: "Bodoni MT";
+}
+
+.guestbook {
+    position: absolute;
+    bottom: 50px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+footer {
+    font-family: Dialog;
+    margin-bottom: inherit;
+    bottom: 10px;
+    position: absolute;
+
+}
